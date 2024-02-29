@@ -14,7 +14,7 @@ Clicking on the ? icon on the homepage brings the user to a FAQ page, where they
 
 ### Running the app:
 The app can be ran most easily through the following link:
-[https://studio.code.org/projects/applab/KcgI_4mpil3XrboawVTaRfjF9btRc1nCJ8zDB_RqRcc](url)
+[https://studio.code.org/projects/applab/KcgI_4mpil3XrboawVTaRfjF9btRc1nCJ8zDB_RqRcc]
 
 
 It can also be cloned into an IDE (such as VS Code) and ran locally with a project manager such as node npm. However, this limits cloud capabilities.
