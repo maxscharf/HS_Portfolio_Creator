@@ -4,7 +4,7 @@
 The HS Portfolio Creator program is a mobile app intended to allow students of a certain High School to log the activities that they participate in. It can be accessed both through the web and as a mobile application. 
 
 ### Student functionality:
-Students can use a designated passkey (Note: All passkeys are set to "1234" for testing) to log in to their acount for privacy purposes. From there, they can input and describe activities that they have participated in under six different categories. This data is stored dynamically through a cloud based dataset. Finaly, they are able to view a final portfolio report for each category of activity, which can be uploaded to both Instagram and LinkedIn.
+Students can use a designated passkey (**Note: All passkeys are set to "1234" for testing**) to log in to their acount for privacy purposes. From there, they can input and describe activities that they have participated in under six different categories. This data is stored dynamically through a cloud based dataset. Finaly, they are able to view a final portfolio report for each category of activity, which can be uploaded to both Instagram and LinkedIn.
 
 ### Administrator functionality:
 Using another passkey (presently "1234"), Administrators can view and edit the portfolios of all students to ensure truthfullness and monitor student progress.
